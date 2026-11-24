@@ -1,9 +1,5 @@
 # ML Challenge 2026: Business Entity Resolution Solution
 
-**Team Name:** COD-i  
-**Team Members:** Vedant Singh, Kaustuk Pratap Singh  
-**Submission Date:** 28 September 2026
-
 **Terms in this document**
 
 | Term | Meaning |
